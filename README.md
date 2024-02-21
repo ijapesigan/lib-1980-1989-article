@@ -1,7 +1,7 @@
 lib-1980-1989-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-02-17
+2024-02-21
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -77,6 +77,14 @@ Cloninger, C. R. (1987). Neurogenetic adaptive mechanisms in alcoholism.
 Cox, W. M., & Klinger, E. (1988). A motivational model of alcohol use.
 *Journal of Abnormal Psychology*, *97*(2), 168–180.
 <https://doi.org/10.1037/0021-843x.97.2.168>
+
+</div>
+
+<div id="ref-Cudeck-1989" class="csl-entry">
+
+Cudeck, R. (1989). Analysis of correlation matrices using covariance
+structure models. *Psychological Bulletin*, *105*(2), 317–327.
+<https://doi.org/10.1037/0033-2909.105.2.317>
 
 </div>
 

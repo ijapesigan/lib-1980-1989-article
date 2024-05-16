@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-1980-1989-article/actions/workflows/she
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-line-spacing="2">
+entry-spacing="0" line-spacing="2">
 
 <div id="ref-Barnard-Collins-Farewell-etal-1981" class="csl-entry">
 

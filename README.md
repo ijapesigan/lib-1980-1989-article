@@ -1,7 +1,7 @@
 lib-1980-1989-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-06-04
+2024-06-05
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -215,7 +215,7 @@ and parametric approaches. *Psychological Bulletin*, *101*(1), 136–139.
 
 <div id="ref-Rogosa-1980" class="csl-entry">
 
-Rogosa, D. (1980). A critique of cross-lagged correlation.
+Rogosa, D. R. (1980). A critique of cross-lagged correlation.
 *Psychological Bulletin*, *88*(2), 245–258.
 <https://doi.org/10.1037/0033-2909.88.2.245>
 

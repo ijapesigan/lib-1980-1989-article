@@ -1,7 +1,7 @@
 lib-1980-1989-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-12-12
+2025-01-06
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -163,6 +163,14 @@ Behavior*, *25*(3), 270. <https://doi.org/10.2307/2136425>
 
 </div>
 
+<div id="ref-Kunsch-1989" class="csl-entry">
+
+Kunsch, H. R. (1989). The jackknife and the bootstrap for general
+stationary observations. *The Annals of Statistics*, *17*(3).
+<https://doi.org/10.1214/aos/1176347265>
+
+</div>
+
 <div id="ref-MacKinnon-White-1985" class="csl-entry">
 
 MacKinnon, J. G., & White, H. (1985). Some heteroskedasticity-consistent
@@ -227,6 +235,14 @@ Rogosa, D. R. (1980). A critique of cross-lagged correlation.
 Schenker, N. (1987). Better bootstrap confidence intervals: comment.
 *Journal of the American Statistical Association*, *82*(397), 192.
 <https://doi.org/10.2307/2289150>
+
+</div>
+
+<div id="ref-Singh-1981" class="csl-entry">
+
+Singh, K. (1981). On the asymptotic accuracy of
+<span class="nocase">Efron’s</span> bootstrap. *The Annals of
+Statistics*, *9*(6). <https://doi.org/10.1214/aos/1176345636>
 
 </div>
 

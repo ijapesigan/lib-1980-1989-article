@@ -207,6 +207,14 @@ Behavior*, *25*(3), 270. <https://doi.org/10.2307/2136425>
 
 </div>
 
+<div id="ref-Koenker-1981" class="csl-entry">
+
+Koenker, R. (1981). A note on studentizing a test for
+heteroscedasticity. *Journal of Econometrics*, *17*(1), 107–112.
+<https://doi.org/10.1016/0304-4076(81)90062-2>
+
+</div>
+
 <div id="ref-Kunsch-1989" class="csl-entry">
 
 Kunsch, H. R. (1989). The jackknife and the bootstrap for general
